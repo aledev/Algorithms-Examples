@@ -1,0 +1,14 @@
+D:\Documentos\Clases\Algoritmos Avanzados\Tarea 01\Tarea01\Tarea01\bin\Debug\Tarea01.exe.config
+D:\Documentos\Clases\Algoritmos Avanzados\Tarea 01\Tarea01\Tarea01\bin\Debug\Tarea01.exe
+D:\Documentos\Clases\Algoritmos Avanzados\Tarea 01\Tarea01\Tarea01\bin\Debug\Tarea01.pdb
+D:\Documentos\Clases\Algoritmos Avanzados\Tarea 01\Tarea01\Tarea01\obj\Debug\Tarea01.exe
+D:\Documentos\Clases\Algoritmos Avanzados\Tarea 01\Tarea01\Tarea01\obj\Debug\Tarea01.pdb
+D:\Documentos\Clases\Algoritmos Avanzados\Tarea 01\Tarea01\Tarea01\obj\Debug\Tarea01.csprojResolveAssemblyReference.cache
+C:\Users\aialiagam\Documents\Mine\Estudios\USACH\Algoritmos Avanzados\Informes Ale\Informe 01\Tarea01\Tarea01\bin\Debug\Tarea01.exe.config
+C:\Users\aialiagam\Documents\Mine\Estudios\USACH\Algoritmos Avanzados\Informes Ale\Informe 01\Tarea01\Tarea01\obj\Debug\Tarea01.exe
+C:\Users\aialiagam\Documents\Mine\Estudios\USACH\Algoritmos Avanzados\Informes Ale\Informe 01\Tarea01\Tarea01\obj\Debug\Tarea01.pdb
+C:\Users\aialiagam\Documents\Mine\Estudios\USACH\Algoritmos Avanzados\Informes Ale\Informe 01\Tarea01\Tarea01\bin\Debug\Tarea01.exe
+C:\Users\aialiagam\Documents\Mine\Estudios\USACH\Algoritmos Avanzados\Informes Ale\Informe 01\Tarea01\Tarea01\bin\Debug\Tarea01.pdb
+D:\Documentos\Clases\Algoritmos Avanzados\Laboratorio\Laboratorio 01\Tarea01\Tarea01\bin\Debug\Tarea01.exe.config
+D:\Documentos\Clases\Algoritmos Avanzados\Laboratorio\Laboratorio 01\Tarea01\Tarea01\obj\Debug\Tarea01.exe
+D:\Documentos\Clases\Algoritmos Avanzados\Laboratorio\Laboratorio 01\Tarea01\Tarea01\obj\Debug\Tarea01.pdb
