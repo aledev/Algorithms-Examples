@@ -1,0 +1,40 @@
+D:\Documentos\Clases\Algoritmos Avanzados\Laboratorio\Laboratorio 02\Code\Lab02\Lab02\bin\Debug\Lab02.exe.config
+D:\Documentos\Clases\Algoritmos Avanzados\Laboratorio\Laboratorio 02\Code\Lab02\Lab02\bin\Debug\Lab02.exe
+D:\Documentos\Clases\Algoritmos Avanzados\Laboratorio\Laboratorio 02\Code\Lab02\Lab02\bin\Debug\Lab02.pdb
+D:\Documentos\Clases\Algoritmos Avanzados\Laboratorio\Laboratorio 02\Code\Lab02\Lab02\bin\Debug\Newtonsoft.Json.dll
+D:\Documentos\Clases\Algoritmos Avanzados\Laboratorio\Laboratorio 02\Code\Lab02\Lab02\bin\Debug\Newtonsoft.Json.xml
+D:\Documentos\Clases\Algoritmos Avanzados\Laboratorio\Laboratorio 02\Code\Lab02\Lab02\obj\Debug\Lab02.exe
+D:\Documentos\Clases\Algoritmos Avanzados\Laboratorio\Laboratorio 02\Code\Lab02\Lab02\obj\Debug\Lab02.pdb
+D:\Documentos\Clases\Algoritmos Avanzados\Laboratorio\Laboratorio 02\Code\Lab02\Lab02\bin\Debug\Data\data_100000_des.json
+D:\Documentos\Clases\Algoritmos Avanzados\Laboratorio\Laboratorio 02\Code\Lab02\Lab02\bin\Debug\Data\data_100000_ord.json
+D:\Documentos\Clases\Algoritmos Avanzados\Laboratorio\Laboratorio 02\Code\Lab02\Lab02\bin\Debug\Data\data_10000_des.json
+D:\Documentos\Clases\Algoritmos Avanzados\Laboratorio\Laboratorio 02\Code\Lab02\Lab02\bin\Debug\Data\data_10000_ord.json
+D:\Documentos\Clases\Algoritmos Avanzados\Laboratorio\Laboratorio 02\Code\Lab02\Lab02\bin\Debug\Data\data_200000_des.json
+D:\Documentos\Clases\Algoritmos Avanzados\Laboratorio\Laboratorio 02\Code\Lab02\Lab02\bin\Debug\Data\data_200000_ord.json
+D:\Documentos\Clases\Algoritmos Avanzados\Laboratorio\Laboratorio 02\Code\Lab02\Lab02\bin\Debug\Data\data_20000_des.json
+D:\Documentos\Clases\Algoritmos Avanzados\Laboratorio\Laboratorio 02\Code\Lab02\Lab02\bin\Debug\Data\data_20000_ord.json
+D:\Documentos\Clases\Algoritmos Avanzados\Laboratorio\Laboratorio 02\Code\Lab02\Lab02\bin\Debug\Data\data_500000_des.json
+D:\Documentos\Clases\Algoritmos Avanzados\Laboratorio\Laboratorio 02\Code\Lab02\Lab02\bin\Debug\Data\data_500000_ord.json
+D:\Documentos\Clases\Algoritmos Avanzados\Laboratorio\Laboratorio 02\Code\Lab02\Lab02\bin\Debug\Data\data_50000_des.json
+D:\Documentos\Clases\Algoritmos Avanzados\Laboratorio\Laboratorio 02\Code\Lab02\Lab02\bin\Debug\Data\data_50000_ord.json
+D:\Documentos\Clases\Algoritmos Avanzados\Laboratorio\Laboratorio 02\Code\Lab02\Lab02\obj\Debug\Lab02.csprojResolveAssemblyReference.cache
+C:\Develop4\Algorithms-Examples-master\Algorithms-Examples-master\Laboratorios\Lab02\Lab02\bin\Debug\Data\data_100000_des.json
+C:\Develop4\Algorithms-Examples-master\Algorithms-Examples-master\Laboratorios\Lab02\Lab02\bin\Debug\Data\data_100000_ord.json
+C:\Develop4\Algorithms-Examples-master\Algorithms-Examples-master\Laboratorios\Lab02\Lab02\bin\Debug\Data\data_10000_des.json
+C:\Develop4\Algorithms-Examples-master\Algorithms-Examples-master\Laboratorios\Lab02\Lab02\bin\Debug\Data\data_10000_ord.json
+C:\Develop4\Algorithms-Examples-master\Algorithms-Examples-master\Laboratorios\Lab02\Lab02\bin\Debug\Data\data_200000_des.json
+C:\Develop4\Algorithms-Examples-master\Algorithms-Examples-master\Laboratorios\Lab02\Lab02\bin\Debug\Data\data_200000_ord.json
+C:\Develop4\Algorithms-Examples-master\Algorithms-Examples-master\Laboratorios\Lab02\Lab02\bin\Debug\Data\data_20000_des.json
+C:\Develop4\Algorithms-Examples-master\Algorithms-Examples-master\Laboratorios\Lab02\Lab02\bin\Debug\Data\data_20000_ord.json
+C:\Develop4\Algorithms-Examples-master\Algorithms-Examples-master\Laboratorios\Lab02\Lab02\bin\Debug\Data\data_500000_des.json
+C:\Develop4\Algorithms-Examples-master\Algorithms-Examples-master\Laboratorios\Lab02\Lab02\bin\Debug\Data\data_500000_ord.json
+C:\Develop4\Algorithms-Examples-master\Algorithms-Examples-master\Laboratorios\Lab02\Lab02\bin\Debug\Data\data_50000_des.json
+C:\Develop4\Algorithms-Examples-master\Algorithms-Examples-master\Laboratorios\Lab02\Lab02\bin\Debug\Data\data_50000_ord.json
+C:\Develop4\Algorithms-Examples-master\Algorithms-Examples-master\Laboratorios\Lab02\Lab02\bin\Debug\Lab02.exe.config
+C:\Develop4\Algorithms-Examples-master\Algorithms-Examples-master\Laboratorios\Lab02\Lab02\bin\Debug\Lab02.exe
+C:\Develop4\Algorithms-Examples-master\Algorithms-Examples-master\Laboratorios\Lab02\Lab02\bin\Debug\Lab02.pdb
+C:\Develop4\Algorithms-Examples-master\Algorithms-Examples-master\Laboratorios\Lab02\Lab02\bin\Debug\Newtonsoft.Json.dll
+C:\Develop4\Algorithms-Examples-master\Algorithms-Examples-master\Laboratorios\Lab02\Lab02\bin\Debug\Newtonsoft.Json.xml
+C:\Develop4\Algorithms-Examples-master\Algorithms-Examples-master\Laboratorios\Lab02\Lab02\obj\Debug\Lab02.csprojResolveAssemblyReference.cache
+C:\Develop4\Algorithms-Examples-master\Algorithms-Examples-master\Laboratorios\Lab02\Lab02\obj\Debug\Lab02.exe
+C:\Develop4\Algorithms-Examples-master\Algorithms-Examples-master\Laboratorios\Lab02\Lab02\obj\Debug\Lab02.pdb
